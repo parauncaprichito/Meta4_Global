@@ -76,7 +76,7 @@ goto:inicio
 		goto salir
     )
 	
-	copy ..\Meta4_Transfer.xlsb .\"Meta4_Transfer_"%Counter%".xlsb"
+	copy ..\Meta4_Transfer.xlsb .\"Meta4_Transfer_"%Counter%"_"%date:~6,4%%date:~3,2%%date:~0,2%".xlsb"
 	
     
 	if "%var%"=="2" (
