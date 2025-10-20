@@ -1,3 +1,0 @@
-Transfer "APP_USER"."M4RAULR" from Origin to Destination\
-
-Replace M4RSC_APP_USR_ROLE From Origin To Destination Where "ID_APP_USR='M4RAULR'"\
