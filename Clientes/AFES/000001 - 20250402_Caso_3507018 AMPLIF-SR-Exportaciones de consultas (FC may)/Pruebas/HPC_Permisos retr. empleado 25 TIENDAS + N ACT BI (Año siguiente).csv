@@ -1,0 +1,52 @@
+﻿ID Empleado;Núm. periodo;Apellidos y Nombre;Fecha inicio;ID Incidencia;Nombre incidencia;Fin;Duración;Time Unit;Nombre de puesto;Nombre unidad org.
+10012;2;Perez Murcia, Tamara;01/05/2022;9;Vacaciones;10/05/2022;7.000.000;días;COUNTRY HC PROFESSIONAL LAW-CERTIFIED;ES - SHOP - TORREVIEJA
+10016;1;Alvarez Alvarez, Maria lourdes;14/02/2022;ASPH;Asuntos propios (Horas);14/02/2022;4.000.000;horas;COUNTRY HC PROFESSIONAL LAW-CERTIFIED;ES - SHOP - GIJON/XIXON - C PALACIO VALDES 17
+12480;1;Sanchez Yeste, Jose luis;21/02/2022;FALL_FAM;Fallecimiento Familiar;21/02/2022;24.000.000;horas;COUNTRY HC PROFESSIONAL LAW-CERTIFIED;ES - SHOP - REUS - PRAT DE LA RIBA
+19356;1;Rodriguez Aragon, Maria del pino;24/06/2022;MEDICO;Horas Médico;24/06/2022;0.250000;horas;COUNTRY HC PROFESSIONAL NOT-CERTIFIED;ES - SHOP - ANTEQUERA
+21394;1;Hernandez Rubio, Sonia;08/06/2022;PERM_RET;Permiso retribuído;08/06/2022;8.000.000;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - PALMA - SINDICATO
+21394;1;Hernandez Rubio, Sonia;13/06/2022;CUMPL;Cumpleaños;13/06/2022;8.000.000;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - PALMA - SINDICATO
+21394;1;Hernandez Rubio, Sonia;15/06/2022;CUMPL;Cumpleaños;15/06/2022;2.000.000;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - PALMA - SINDICATO
+21569;1;Valcarcel Mahugo, Janira;03/05/2022;MEDICO;Horas Médico;03/05/2022;8.500.000;horas;COUNTRY PRODUCT HUB SPECIALIST;ES - Supply Chain - HUB
+25217;1;Ponce Ibañez, Nuria;01/06/2022;ASPR;Asuntos propios (Días);01/06/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;17/06/2022;TRASL;Traslado;20/06/2022;96.000.000;horas;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;30/06/2022;FLOC;Festivo local;30/06/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25333;1;Blanco Aguilar, Matilde;29/06/2022;CUMPL;Cumpleaños;29/06/2022;7.000.000;horas;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25394;1;Suarez Cabreros, Sonia;17/03/2022;PERM_RET;Permiso retribuído;17/03/2022;8.500.000;horas;COUNTRY FIELD MEDICAL SPECIALIST;ES - Medical - Norte
+25394;1;Suarez Cabreros, Sonia;22/03/2022;PERM_RET;Permiso retribuído;22/03/2022;8.500.000;horas;COUNTRY FIELD MEDICAL SPECIALIST;ES - Medical - Norte
+25407;1;Montes Canella, David;02/03/2022;PERM_RET;Permiso retribuído;02/03/2022;8.500.000;horas;COUNTRY HC PROFESSIONAL LAW-CERTIFIED;ES - SHOP - GIJON/XIXON - MENENDEZ PELAYO
+35670;2;Corcoy Muela, Paula;20/06/2022;9;Vacaciones;23/06/2022;4.000.000;días;COUNTRY TOTAL REWARD SERVICES SPECIALIST;ES - HR - Total Reward
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+**********************************************************************;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+ID Empleado;Núm. periodo;Apellidos y Nombre;Fecha inicio;ID Incidencia;Nombre incidencia;Fin;Duración;Time Unit;Nombre de puesto;Nombre unidad org.
+21359;1;Lopez Huete, Veronica;02/08/2022;PERM_SIND;Permiso sindical;02/08/2022;3.733.333;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - CUENCA
+21359;1;Lopez Huete, Veronica;09/08/2022;PERM_SIND;Permiso sindical;09/08/2022;3.866.667;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - CUENCA
+21359;1;Lopez Huete, Veronica;16/08/2022;9;Vacaciones;31/08/2022;12.000.000;días;COUNTRY CLIENT ADVISOR;ES - SHOP - CUENCA
+21394;1;Hernandez Rubio, Sonia;05/07/2022;PERM_SIND;Permiso sindical;05/07/2022;8.000.000;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - PALMA - SINDICATO
+21394;1;Hernandez Rubio, Sonia;12/07/2022;PERM_SIND;Permiso sindical;12/07/2022;2.000.000;horas;COUNTRY CLIENT ADVISOR;ES - SHOP - PALMA - SINDICATO
+24876;1;Varona Espallargas, Neus;09/08/2022;CUMPL;Cumpleaños;09/08/2022;8.000.000;horas;COUNTRY HR OPERATIONS SPECIALIST;ES - HR - HR Operations
+25217;1;Ponce Ibañez, Nuria;04/07/2022;9;Vacaciones;04/07/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;11/07/2022;ASPR;Asuntos propios (Días);11/07/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;14/07/2022;9;Vacaciones;14/07/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;15/07/2022;PERM_RET;Permiso retribuído;15/07/2022;8.000.000;horas;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;18/07/2022;ENF_HOSP;Enfermedad grave / hospitalización de familiar;24/07/2022;168.000.000;horas;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;27/07/2022;FLOC;Festivo local;27/07/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;05/09/2022;9;Vacaciones;25/09/2022;15.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;31/10/2022;9;Vacaciones;04/11/2022;4.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25217;1;Ponce Ibañez, Nuria;30/11/2022;9;Vacaciones;30/11/2022;1.000.000;días;COUNTRY HR PEOPLE PARTNER;ES - HR - HRBP Field
+25907;1;Luque Guerrero, José;12/09/2022;13;Enfermedad Hospitalaria;13/09/2022;2.000.000;días;Country Manufacturing Operator;ES - Production - Production
+25912;1;Bertran Gutierrez, Eduard;08/08/2022;9;Vacaciones;08/08/2022;1.000.000;días;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+25912;1;Bertran Gutierrez, Eduard;01/09/2022;9;Vacaciones;01/09/2022;1.000.000;días;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+25912;1;Bertran Gutierrez, Eduard;02/09/2022;9;Vacaciones;02/09/2022;1.000.000;días;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+25912;1;Bertran Gutierrez, Eduard;17/10/2022;9;Vacaciones;20/10/2022;4.000.000;días;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+25914;1;Gomez Romero, Antonio;15/09/2022;9;Vacaciones;16/09/2022;2.000.000;días;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+25914;1;Gomez Romero, Antonio;06/10/2022;FAM_MATR;Matrimonio Familiar;06/10/2022;24.000.000;horas;Country R&D Specialist;ES - Procurement & Supply Chain - R&D
+35670;2;Corcoy Muela, Paula;25/07/2022;MEDICO;Horas Médico;25/07/2022;2.000.000;horas;COUNTRY TOTAL REWARD SERVICES SPECIALIST;ES - HR - Total Reward
+35670;2;Corcoy Muela, Paula;26/07/2022;TRASL;Traslado;26/07/2022;24.000.000;horas;COUNTRY TOTAL REWARD SERVICES SPECIALIST;ES - HR - Total Reward
+35670;2;Corcoy Muela, Paula;10/08/2022;9;Vacaciones;12/08/2022;3.000.000;días;COUNTRY TOTAL REWARD SERVICES SPECIALIST;ES - HR - Total Reward
