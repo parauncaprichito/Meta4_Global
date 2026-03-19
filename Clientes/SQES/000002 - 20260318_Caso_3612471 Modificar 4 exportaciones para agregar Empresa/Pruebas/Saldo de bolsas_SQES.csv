@@ -1,0 +1,4 @@
+﻿Tipo de registro;Identificador;Fecha de corte;ID RH;Núm. periodo;ID Bolsa;Bolsa;Fecha inicio de uso;Fecha fin de uso;Unidades iniciales;Unidades usadas;Total restante;ID Sociedad Local;Fecha de caducidad periodo anterior;Unidad caducidad per. anterior;ID Incidencia;Días/horas laborables;Iniciales y Ajustes;Ajuste manual;ID Empresa;Nombre de empresa
+Borrado;ES0000002;01/01/2026;;;;;;;;;;;;;;;;;;
+Nuevo;ES0000002;02/01/2026;ES0000002;2;VNE1;2. Vacaciones extraordinarias naturales (3 meses);02/01/2026;31/12/2026;0.000;0.000;0.000;SQES;;0.000;9N2ES;0;0.00;0.000;ES01;SECURITAS SEGURIDAD ESPAÑA S.A.
+Nuevo;ES0000002;02/01/2026;ES0000002;2;VNN1;1. Vacaciones naturales (Seguridad y Servicios);02/01/2026;31/12/2026;30.920;0.000;30.920;SQES;;0.000;9N1ES;0;30.92;0.000;ES01;SECURITAS SEGURIDAD ESPAÑA S.A.

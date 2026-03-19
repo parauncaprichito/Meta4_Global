@@ -1,0 +1,3 @@
+Necesitaríamos que nos hicieráis una estimación sobre el coste que supondría incluir el Código de empresa en las integraciones. 
+
+Os adjunto un cuadro resumen en el que podéis ver en qué integraciones ya disponemos del campo empresa y en cuales necesitamos que se incluya.

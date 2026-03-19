@@ -1,0 +1,7 @@
+2 jornadas
+
+    Modificar y buscar STD_HR_PERIOD -> SCO_H_HR_LEGAL_ENTITY.SCO_ID_LEG_ENT
+        8. Inscritos y centros de costes_SQES
+        8. Ausencias de la sesión_SQES
+        9. Saldo de bolsas_SQES                     FILTRO: SCO_H_HR_LEGAL_ENTITY.DT_END (+)>= EXECUTION_DATE AND STD_HR_PERIOD.STD_DT_END>=EXECUTION_DATE
+        15. Propiedades de la compañia_SQES         FILTRO: SCO_H_HR_LEGAL_ENTITY.DT_END >= CAMPO_CLC_5

@@ -1,0 +1,2 @@
+El cliente necesita que en la query "Consulta_Evaluacion_Fijacion_Objetivos_PRI" se presente el campo "ID Persona responsable 2" de la tabla "Objetivos solicitados por el evaluado".
+El campo actualmente devuelve el ID, pero no vemos cómo obtener el nombre de la persona asociada a ese ID.
